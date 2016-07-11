@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Mobile Executive]]></title>
         <description><![CDATA[Mobile Executive]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mobile-executive/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Jul 2016 00:09:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 11 Jul 2016 00:09:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mobile-executive/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mobile Security Dilemma: Can Enterprises Trust Their BYOD Implementations?]]></title>
+            <description><![CDATA[<article><h1>Mobile Security Dilemma: Can Enterprises Trust Their BYOD Implementations?</h1><p>The modern enterprise requires high-performance mobility practices and tools in order to maintain a competitive edge. But these rely on usability, else they simply won't be adopted - and security, another of the enterprise's core requirements, is usability's most potent barrier. But by using data more intelligently and through prudent integrations, the two can actually co-exist, with neither compromised.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/db0a6d27b92d882d5bbb22527ade0399/noop.jpg?input=https%3A%2F%2Fabm-website-assets.s3.amazonaws.com%2Fwirelessdesignmag.com%2Fs3fs-public%2Fstyles%2Frelated_thumb%2Fpublic%2Ffeatured_image%2F2015%2F12%2FComputing.jpg%3Fitok%3DYmQxkQ4v"></article>]]></description>
+            <link>https://www.wirelessweek.com/article/2016/05/mobile-security-dilemma-can-enterprises-trust-their-byod-implementations</link>
+            <guid isPermaLink="false">4ad43415-3de9-43bc-822c-e86df0cb6637</guid>
+            <pubDate>Mon, 11 Jul 2016 00:09:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Here's How We're Delivering Mobility for the Enterprise]]></title>
             <description><![CDATA[<article><h1>Here's How We're Delivering Mobility for the Enterprise</h1><p>Today's enterprises no longer operate solely in offices. Mobile devices have transformed the traditional workplace into a mobile-first work environment. This transformation has resulted in greater demand for bring-your-own-device (BYOD), which has grown significantly over the past few years.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cf2842b5c13e223fd716ebafc696d571/noop.jpg?input=http%3A%2F%2Fsynchronoss.com%2Fwp-content%2Fuploads%2Fsecure-mobility-mega-menu-feature.jpg"></article>]]></description>
